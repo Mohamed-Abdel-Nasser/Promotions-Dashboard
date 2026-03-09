@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --font-tajawal: var(--font-tajawal), sans-serif;
+}
